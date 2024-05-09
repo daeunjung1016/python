@@ -1,0 +1,3 @@
+﻿  출력함수.c
+C:\C1203_J\day01\출력함수.c(27,9): warning C4477: 'printf' : 서식 문자열 '%.1c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  day01.vcxproj -> C:\C1203_J\day01\x64\Debug\day01.exe
