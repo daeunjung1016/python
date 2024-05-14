@@ -1,0 +1,8 @@
+﻿  work.c
+C:\C1203_J\day005\work.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C1203_J\day005\work.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C1203_J\day005\work.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C1203_J\day005\work.c(41,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C1203_J\day005\work.c(66,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C1203_J\day005\work.c(23,12): warning C4101: 'basket' :참조되지 않은 지역 변수입니다.
+  day005.vcxproj -> C:\C1203_J\day005\x64\Debug\day005.exe
